@@ -1,4 +1,5 @@
 # Autism Prediction Using Machine Learning
+**Application**: https://autism-disorder-diagnosis.streamlit.app
 
 ## Overview
 This project leverages machine learning techniques to predict Autism Spectrum Disorder (ASD) based on behavioral and diagnostic data. The goal is to support early detection and intervention by identifying key features that indicate the likelihood of ASD. By analyzing patterns in the data, the model aims to provide a reliable and scalable solution for assisting healthcare professionals and researchers.
